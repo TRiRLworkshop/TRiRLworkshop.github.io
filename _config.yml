@@ -6,3 +6,4 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 include: ['_pages']
+theme: jekyll-theme-cayman
