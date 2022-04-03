@@ -9,20 +9,20 @@ paper: true
 acknowledgements: ""
 ---
 
-<!--br/>
+<br/>
 <!--div class="row">
   <div class="col-xs-12">
     <center><h1>Temporal Representation in Reinforcement Learning (TRiRL)</h1></center>
     <center><h2>June 11, 2022. RLDM Workshop, Brown University, Providence, RI, USA.</h2></center>
     <center><a href="https://rldm.org/registration-2/" target="_blank">Underline Link</a> (RLDM Registration Required)</center>
     <!--center>Ask the panelists! Submit your questions at <a href="SHOULD WE HAVE THIS??" target="_blank">sli.do</a>.</center-->
-  <!--/div>
+  </div>
 </div-->
 
-<!--br/>
+<br/>
 
 
-<!--div class="row">
+<div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="">
       <img class="people-pic" src="{{ "/static/img/ico/logo.jpg" | prepend:site.baseurl }}">
@@ -80,7 +80,7 @@ acknowledgements: ""
 
 
 <!-- Speakers -->
-<!--div class="row" id="speakers">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Speakers</h2>
   </div>
@@ -117,7 +117,7 @@ acknowledgements: ""
 
 <hr />
 <!-- Intro -->
-<!--div class="row" id="intro">
+<div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
             <p>The ability to perceive and estimate temporal dynamics can be considered as one of the central
@@ -142,7 +142,7 @@ acknowledgements: ""
 <hr />
 
 <!-- Organizers -->
-<!--div class="row" id="organizers">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -188,7 +188,7 @@ acknowledgements: ""
 
 
 <!-- References -->
-<!--div class="row">
+<div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
   </div>
