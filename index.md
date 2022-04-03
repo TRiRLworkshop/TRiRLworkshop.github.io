@@ -10,7 +10,7 @@ acknowledgements: ""
 ---
 
 <br/>
-<!--div class="row">
+<div class="row">
   <div class="col-xs-12">
     <center><h1>Temporal Representation in Reinforcement Learning (TRiRL)</h1></center>
     <center><h2>June 11, 2022. RLDM Workshop, Brown University, Providence, RI, USA.</h2></center>
@@ -25,7 +25,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/ico/logo.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/ico/logo.jpg", alt="logo">
   </div>
   <div class="col-xs-12">
           <p> TRiRL is a one-day interdisciplinary workshop that aims to push the boundaries of our understanding of brain's ability to represent time. We hope to bridge the fields of neuroscience, psychology and machine learning through discussions on appropriate temporal representations in model-based reinforcement learning. 
@@ -88,7 +88,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/provisional.gif" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/provisional.gif">
     </a>
     <div class="people-name">
       <a href="">Speaker 1</a>
@@ -97,7 +97,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/provisional1.gif" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/provisional1.gif">
     </a>
     <div class="people-name">
       <a href="">Speaker 2</a>
@@ -106,7 +106,7 @@ acknowledgements: ""
   </div>
     <div class="col-xs-6 col-lg-3">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/provisional3.gif" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/provisional3.gif">
     </a>
     <div class="people-name">
       <a href="">Speaker 3</a>
@@ -150,7 +150,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="www.zfountas.com">
-      <img class="people-pic" src="{{ "/static/img/people/fountas.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/fountas.jpg">
     </a>
     <div class="people-name">
       <a href="www.zfountas.com">Zafeirios Fountas</a>
@@ -159,7 +159,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://ucbtns.github.io/index.html">
-      <img class="people-pic" src="{{ "/static/img/people/sajid.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/sajid.jpg">
     </a>
     <div class="people-name">
       <a href="https://ucbtns.github.io/index.html">Noor Sajid</a>
@@ -168,7 +168,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="www.azak.cc">
-      <img class="people-pic" src="{{ "/static/img/people/Zakharov.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="/static/img/people/Zakharov.jpg">
     </a>
     <div class="people-name">
       <a href="www.azak.cc">Alex Zakharov </a>
@@ -177,7 +177,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="www.warrickroseboom.com">
-      <img class="people-pic" src="{{ "/static/img/people/roseboom.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src"/static/img/people/roseboom.jpg">
     </a>
     <div class="people-name">
       <a href="www.warrickroseboom.com">Warrick Roseboom</a>
