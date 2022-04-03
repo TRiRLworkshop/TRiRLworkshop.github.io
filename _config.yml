@@ -1,0 +1,9 @@
+title:Temporal Representation in Reinforcement Learning (TRiRL)
+description: Temporal Representation in Reinforcement Learning (TRiRL)
+  ---
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-144588579-1
