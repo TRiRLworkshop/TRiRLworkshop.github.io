@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1280" width="1280" height="1280">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #0c2652 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Shape 1" class="s0" d="m342 997h598v247h-598z"/>
+	<circle id="Layer 1" class="s0" cx="639.5" cy="508.5" r="475.5"/>
+	<path id="Layer 2" class="s1" d="m650.3 557.6l-62.6-37.5 228-381 62.6 37.5z"/>
+	<path id="Shape 2" class="s1" d="m587.3 518.6l61.6-41.9 112.5 164.6-61.5 42z"/>
+</svg>
