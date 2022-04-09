@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <img src="/img/white-trans.gif" width=18% alt="TRiRL">
+      <h1 class="project-name">Temporal Representation in Reinforcement Learning</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">11th June 2022, Brown University, Providence, RI, USA.</h2>
+      <a href="https://rldm.org/" class="btn">Conference website</a>
+      <a href="https://rldm.org/registration-2/" class="btn">Workshop registration</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+  </body>
+
+  <footer class="footer-distributed">
+
+    <div class="footer-right">
+      <img class="img-footer" alt="trirl" src="img/trirl.gif">
+    </div>
+
+    <div class="footer-left">
+      <p class="footer-links">
+        <a class="link-1" href="#about">About</a>
+        <a href="#speakers">Speakers</a>
+        <a href="#organisers">Organisers</a>
+        <a href="https://rldm.org/registration-2/">Registration</a>
+      </p>
+      <p>Temporal Representation in Reinforcement Learning 2022</p>
+    </div>
+
+  </footer>
+
+
+
+  <!-- <footer class="site-footer">
+      <h2 style="color:white; text-align: left; float:left;padding-left: 3%;">Temporal Representation in Reinforcement Learning 2022</h1> 
+      <img style="float:right; padding-right: 3%;" alt="trirl" src="img/trirl.gif">
+  </footer> -->
+</html>
