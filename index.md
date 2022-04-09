@@ -55,7 +55,7 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
                 <center><p style="font-size: medium;"><a href="https://ucbtns.github.io/index.html">Noor Sajid</a> <br> UCL &amp; Huawei</p></center>
             </td>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href="https://www.azak.cc"><img style="width:100%;max-width:100%" alt="profile photo" src="img/Zakharov-circle.png" class="hoverZoomLink"></a>
+                <a href="https://www.azak.cc"><img style="width:100%;max-width:100%" alt="profile photo" src="img/zakharov-circle.png" class="hoverZoomLink"></a>
                 <center><p style="font-size: medium;"><a href="https://www.azak.cc">Alex Zakharov </a><br> Huawei</p></center>
             </td>
             <td style="padding:2.5%;width:15%;max-width:15%">
