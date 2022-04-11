@@ -43,7 +43,33 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 
 # Organisers
 
-<table class="speakers">
+<div class="speakers">
+    <div class="row">
+        <div class="column">
+            <img src="img/fountas-circle.png" alt="Snow" style="width:100%">
+            <center><p style="font-size: medium;"><a href="https://www.zfountas.com">Zafeirios Fountas</a> <br> Huawei</p></center>
+        </div>
+        <div class="column">
+            <img src="img/sajid-circle.png" alt="Forest" style="width:100%">
+            <center><p style="font-size: medium;"><a href="https://ucbtns.github.io/index.html">Noor Sajid</a> <br> UCL &amp; Huawei</p></center>
+        </div>
+        <div class="column">
+            <img src="img/zakharov-circle.png" alt="Mountains" style="width:100%">
+            <center><p style="font-size: medium;"><a href="https://www.azak.cc">Alex Zakharov </a><br> Huawei</p></center>
+        </div>
+        <div class="column">
+            <img src="img/roseboom-circle.png" alt="Mountains" style="width:100%">
+            <center><p style="font-size: medium;"><a href="https://www.warrickroseboom.com">Warrick Roseboom </a><br> University of Sussex</p></center>
+        </div>
+        <div class="column">
+            <img src="img/tigas-circle.png" alt="Mountains" style="width:100%">
+            <center><p style="font-size: medium;"><a href="https://ptigas.com/">Panagiotis Tigas </a><br> University of Oxford</p></center>
+        </div>
+    </div>
+</div>
+
+
+<!-- <table class="speakers">
     <tbody>               
         <tr>
             <td style="padding:2.5%;width:15%;max-width:15%">
@@ -64,7 +90,7 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 
 
@@ -74,5 +100,5 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 2. Fountas, Z., Sylaidi, A., Nikiforou, K., Seth, A. K., Shanahan, M. & Roseboom, W. (2022), ‘A predictive processing model of episodic memory and time perception’, (in press) Neural Computation.
 3. Hafner, D., Lillicrap, T., Fischer, I., Villegas, R., Ha, D., Lee, H. & Davidson, J. (2019), Learning latent dynamics for planning from pixels, in ‘International conference on machine learning’, PMLR, pp. 2555–2565.
 4. Jazayeri, M. & Shadlen, M. N. (2010), ‘Temporal context calibrates interval timing’, Nature neuro- science 13(8), 1020–1026.
-5. Roseboom, W., Fountas, Z., Nikiforou, K., Bhowmik, D., Shanahan, M. & Seth, A. K. (2019), ‘Ac- tivity in perceptual classification networks as a basis for human subjective time perception’, Nature communications 10(1), 1–9.
+5. Roseboom, W., Fountas, Z., Nikiforou, K., Bhowmik, D., Shanahan, M. & Seth, A. K. (2019), ‘Activity in perceptual classification networks as a basis for human subjective time perception’, Nature communications 10(1), 1–9.
 
