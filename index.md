@@ -73,7 +73,7 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 
 # Mailing list
 
-Sign up to receive the latest updates on the event:
+Sign up to receive the latest updates on the event (programme announcement and livestream):
 
 <!-- <form action="https://docs.google.com/forms/d/e/1FAIpQLScC4e6GMD69dz4qh6lKFPRQ6jjwnsC4tygrjtS5cHuloUCirw/formResponse" method="POST">
   <input style="margin-bottom:3px;" type="text" jsname="YPqjbf" tabindex="0" placeholder="Email address*" required>
