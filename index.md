@@ -80,7 +80,7 @@ Sign up to receive the latest updates on the event:
   <center><button type="submit" class="btn-form">Send</button></center>
 </form> -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScC4e6GMD69dz4qh6lKFPRQ6jjwnsC4tygrjtS5cHuloUCirw/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScC4e6GMD69dz4qh6lKFPRQ6jjwnsC4tygrjtS5cHuloUCirw/viewform?embedded=true" class="google-form" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- <input type="email" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="email" tabindex="0" aria-label="Your email" required="" dir="auto" data-initial-dir="auto" data-initial-value=""> -->
 
