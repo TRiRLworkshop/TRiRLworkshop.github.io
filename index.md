@@ -57,6 +57,8 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
             <img src="img/zakharov-circle.png" alt="Mountains" style="width:100%">
             <center><p style="font-size: medium;"><a href="https://www.azak.cc">Alex Zakharov </a><br> Huawei</p></center>
         </div>
+    </div>
+    <div class="row">
         <div class="column">
             <img src="img/roseboom-circle.png" alt="Mountains" style="width:100%">
             <center><p style="font-size: medium;"><a href="https://www.warrickroseboom.com">Warrick Roseboom </a><br> University of Sussex</p></center>
@@ -68,6 +70,19 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
     </div>
 </div>
 
+
+# Mailing list
+
+Sign up to receive the latest updates on the event:
+
+<!-- <form action="https://docs.google.com/forms/d/e/1FAIpQLScC4e6GMD69dz4qh6lKFPRQ6jjwnsC4tygrjtS5cHuloUCirw/formResponse" method="POST">
+  <input style="margin-bottom:3px;" type="text" jsname="YPqjbf" tabindex="0" placeholder="Email address*" required>
+  <center><button type="submit" class="btn-form">Send</button></center>
+</form> -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScC4e6GMD69dz4qh6lKFPRQ6jjwnsC4tygrjtS5cHuloUCirw/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<!-- <input type="email" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="email" tabindex="0" aria-label="Your email" required="" dir="auto" data-initial-dir="auto" data-initial-value=""> -->
 
 <!-- <table class="speakers">
     <tbody>               
