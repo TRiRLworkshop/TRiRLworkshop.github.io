@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-<div class="mainquote"> 
+<div class="mainquote">
     <b>TRiRL</b> is a one-day interdisciplinary workshop that aims to push the boundaries of our understanding of brain's ability to represent time and explore the potential benefits for reinforcement learning.
 </div>
 
@@ -26,16 +26,16 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
     <tbody>                
         <tr>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/provisional.gif" class="hoverZoomLink"></a>
-                <center><p style="font-size: medium;">Speaker 1</p></center>
+                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/sutton.png" class="hoverZoomLink"></a>
+                <center><p style="font-size: medium;"><a href="http://www.incompleteideas.net/">Richard S. Sutton</a> <br> DeepMind, Amii, and University of Alberta</p></center>
             </td>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/provisional.gif" class="hoverZoomLink"></a>
-                <center><p style="font-size: medium;">Speaker 2</p></center>
+                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/howard.png" class="hoverZoomLink"></a>
+                <center><p style="font-size: medium;"><a href="https://sites.bu.edu/tcn/">Marc Howard</a> <br> Boston University</p></center>
             </td>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/provisional.gif" class="hoverZoomLink"></a>
-                <center><p style="font-size: medium;">Speaker 3</p></center>
+                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/momennejad.png" class="hoverZoomLink"></a>
+                <center><p style="font-size: medium;"><a href="https://www.momen-nejad.org/">Ida Momennejad</a> <br> Microsoft Research</p></center>
             </td>
         </tr>
     </tbody>
@@ -116,4 +116,3 @@ Sign up to receive the latest updates on the event (programme announcement and l
 3. Hafner, D., Lillicrap, T., Fischer, I., Villegas, R., Ha, D., Lee, H. & Davidson, J. (2019), Learning latent dynamics for planning from pixels, in ‘International conference on machine learning’, PMLR, pp. 2555–2565.
 4. Jazayeri, M. & Shadlen, M. N. (2010), ‘Temporal context calibrates interval timing’, Nature neuro- science 13(8), 1020–1026.
 5. Roseboom, W., Fountas, Z., Nikiforou, K., Bhowmik, D., Shanahan, M. & Seth, A. K. (2019), ‘Activity in perceptual classification networks as a basis for human subjective time perception’, Nature communications 10(1), 1–9.
-
