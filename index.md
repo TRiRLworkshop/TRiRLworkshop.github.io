@@ -26,15 +26,15 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
     <tbody>                
         <tr>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/sutton.png" class="hoverZoomLink"></a>
-                <center><p style="font-size: medium;"><a href="http://www.incompleteideas.net/">Richard S. Sutton</a> <br> DeepMind, Amii, and University of Alberta</p></center>
+                <img src="img/sutton.png" alt="Snow" style="width:100%">
+                <center><p style="font-size: medium;"><a href="http://www.incompleteideas.net/">Richard S. Sutton</a> <br> DeepMind, Amii and <br/> University of Alberta</p></center>
             </td>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/howard.png" class="hoverZoomLink"></a>
+                <img src="img/howard.png" alt="Snow" style="width:100%">
                 <center><p style="font-size: medium;"><a href="https://sites.bu.edu/tcn/">Marc Howard</a> <br> Boston University</p></center>
             </td>
             <td style="padding:2.5%;width:15%;max-width:15%">
-                <a href=""><img style="width:100%;max-width:100%" alt="profile photo" src="img/momennejad.png" class="hoverZoomLink"></a>
+                <img src="img/momennejad.png" alt="Snow" style="width:100%">
                 <center><p style="font-size: medium;"><a href="https://www.momen-nejad.org/">Ida Momennejad</a> <br> Microsoft Research</p></center>
             </td>
         </tr>
