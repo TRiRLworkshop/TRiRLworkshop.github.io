@@ -80,35 +80,23 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 </table>
 
 
-# Schedule
+<!-- # Schedule -->
 
 <!-- <div align="center"> -->
 
-| **Time**    	| **Agenda**                               	|
-|-------------	|------------------------------------------	|
-| 1:00 - 1:15 	| Introduction                          	|
-| 1:15 - 1:50 	| Speaker 1                             	|
-| 1:50 - 2:25 	| Speaker 2                             	|
-| 2:25 - 3:00 	| Speaker 3                             	|
-| 3:00 - 3:15 	| Break / Group allocation              	|
-| 3:15 - 4:20 	| Group discussions                        	|
-| 4:25 - 4:55 	| Panel with questions 	                    |
-| 4:55 - 5:00 	| Closing remarks                          	|
-| 5:00 +       	| Social event                             	|
+<!-- | **Time**    	| **Agenda**                               	| -->
+<!-- |-------------	|------------------------------------------	| -->
+<!-- | 1:00 - 1:15 	| Introduction                          	| -->
+<!-- | 1:15 - 1:50 	| Speaker 1                             	| -->
+<!-- | 1:50 - 2:25 	| Speaker 2                             	| -->
+<!-- | 2:25 - 3:00 	| Speaker 3                             	| -->
+<!-- | 3:00 - 3:15 	| Break / Group allocation              	| -->
+<!-- | 3:15 - 4:20 	| Group discussions                        	| -->
+<!-- | 4:25 - 4:55 	| Panel with questions 	                    | -->
+<!-- | 4:55 - 5:00 	| Closing remarks                          	| -->
+<!-- | 5:00 +       	| Social event                             	| -->
 
 <!-- </div> -->
-
-<!-- Time 	Agenda	Speaker
-1:00 -1:15	Introduction [15min]	Zaf
-1:15 - 1:50	Speaker 1 [35min]	Richard Sutton
-1:50 - 2:25	Speaker 2 [35min]	Marc Howard
-2:25 - 3:00	Speaker 3 [35min]	Ida Momennejad
-3:00 - 3:15	Break / Group Allocation (3 groups) [15min]	
-3:15 - 4:20	Group discussions [1hour 5min]	
-4:25 - 4:55	Panel (1 from each group) with questions [30min]	
-4:55 - 5:00 	Closing Remarks [5min]	
-5:00 + 	Happy time -->
-
 
 # Organisers
 
