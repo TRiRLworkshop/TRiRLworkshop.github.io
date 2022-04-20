@@ -30,7 +30,7 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
             </td>
             <td style="padding:2.5%;width:70%;max-width:70%">
             <a href="http://www.incompleteideas.net/"><h2 style="line-height: 0.5">Richard Sutton</h2></a>
-            <p style="font-size: medium;">DeepMind, Amii and <br/> University of Alberta</p>
+            <p style="font-size: medium;">DeepMind, Amii and University of Alberta</p>
             <h4 style="font-style:italic">"Some Foundations of Temporal Representations"</h4>
             <button type="button" class="collapsible">Abstract of the talk</button>
             <div class="content">
@@ -84,23 +84,23 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 
 <!-- <div align="center"> -->
 
-| **Time**    	| **Agenda**                               	| **Speaker**    	|
-|-------------	|------------------------------------------	|----------------	|
-| 1:00 - 1:15 	| Introduction [15min]                     	| Zaf Fountas    	|
-| 1:15 - 1:50 	| Speaker 1 [35min]                        	| Rich Sutton    	|
-| 1:50 - 2:25 	| Speaker 2 [35 min]                       	| Marc Howard    	|
-| 2:25 - 3:00 	| Speaker 3 [35 min]                       	| Ida Mommenejad 	|
-| 3:00 - 3:15 	| Break / Group allocation (3 groups)      	| -              	|
-| 3:15 - 4:20 	| Group discussions                        	| -              	|
-| 4:25 - 4:55 	| Panel with questions 	                    | -              	|
-| 4:55 - 5:00 	| Closing remarks                          	| -              	|
-| 5:00 +       	| Happy time                               	| -              	|
+| **Time**    	| **Agenda**                               	|
+|-------------	|------------------------------------------	|
+| 1:00 - 1:15 	| Introduction [15min]                     	|
+| 1:15 - 1:50 	| Speaker 1 [35min]                        	|
+| 1:50 - 2:25 	| Speaker 2 [35 min]                       	|
+| 2:25 - 3:00 	| Speaker 3 [35 min]                       	|
+| 3:00 - 3:15 	| Break / Group allocation              	|
+| 3:15 - 4:20 	| Group discussions                        	|
+| 4:25 - 4:55 	| Panel with questions 	                    |
+| 4:55 - 5:00 	| Closing remarks                          	|
+| 5:00 +       	| Social event                             	|
 
 <!-- </div> -->
 
 <!-- Time 	Agenda	Speaker
-1:00 -1:15	Introduction [15min]	Zaf Fountas
-1:15 - 1:50	Speaker 1 [35min]	Rich Sutton
+1:00 -1:15	Introduction [15min]	Zaf
+1:15 - 1:50	Speaker 1 [35min]	Richard Sutton
 1:50 - 2:25	Speaker 2 [35min]	Marc Howard
 2:25 - 3:00	Speaker 3 [35min]	Ida Momennejad
 3:00 - 3:15	Break / Group Allocation (3 groups) [15min]	
