@@ -25,21 +25,90 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 <table class="speakers">
     <tbody>                
         <tr>
-            <td style="padding:2.5%;width:15%;max-width:15%">
+            <td style="padding:2.5%;width:30%;max-width:30%">
                 <img src="img/sutton.png" alt="Snow" style="width:100%">
-                <center><p style="font-size: medium;"><a href="http://www.incompleteideas.net/">Richard S. Sutton</a> <br> DeepMind, Amii and <br/> University of Alberta</p></center>
             </td>
-            <td style="padding:2.5%;width:15%;max-width:15%">
-                <img src="img/howard.png" alt="Snow" style="width:100%">
-                <center><p style="font-size: medium;"><a href="https://sites.bu.edu/tcn/">Marc Howard</a> <br> Boston University</p></center>
-            </td>
-            <td style="padding:2.5%;width:15%;max-width:15%">
-                <img src="img/momennejad.png" alt="Snow" style="width:100%">
-                <center><p style="font-size: medium;"><a href="https://www.momen-nejad.org/">Ida Momennejad</a> <br> Microsoft Research</p></center>
+            <td style="padding:2.5%;width:70%;max-width:70%">
+            <a href="http://www.incompleteideas.net/"><h2 style="line-height: 0.5">Richard Sutton</h2></a>
+            <p style="font-size: medium;">DeepMind, Amii and <br/> University of Alberta</p>
+            <h4 style="font-style:italic">"Some Foundations of Temporal Representations"</h4>
+            <button type="button" class="collapsible">Abstract of the talk</button>
+            <div class="content">
+                <p><br>To be confirmed...</p>
+            </div>
             </td>
         </tr>
     </tbody>
 </table>
+
+<table class="speakers">
+    <tbody>                
+        <tr>
+            <td style="padding:2.5%;width:30%;max-width:30%">
+                <img src="img/howard.png" alt="Snow" style="width:100%">
+            </td>
+            <td>
+            <a href="https://sites.bu.edu/tcn/"><h2 style="line-height: 0.5">Marc Howard</h2></a>
+            <p style="font-size: medium;">Boston University</p>
+            <h4 style="font-style:italic">"Temporal memory in the brain and reinforcement learning"</h4>
+            <button type="button" class="collapsible">Abstract of the talk</button>
+            <div class="content">
+                <p><br>A large body of modeling work has focused on temporal representations in memory, including working memory and episodic memory.  There is extensive evidence that neurons in a number of brain regions, including hippocampus, mPFC, lPFC and striatum, fire sequentially, forming a temporal memory of what happened when in the recent past.  More recent evidence from the entorhinal cortex shows neurons that, rather than firing sequentially, are perturbed by a stimulus and then relax back to baseline at different rates.  In the context of reinforcement learning, this population behaves as an eligibility trace, but with a spectrum of decay rates.  At a deeper level, the graded heterogeneity of decay rates lets us identify this population with the real Laplace transform of the recent past.  We propose a simple associative model to use this temporal memory to store and retrieve temporal predictions of the future.  This form of association could form the core of a new generation of RL models that take temporal representations of what happened when to predict what will happen when over an extended future.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="speakers">
+    <tbody>                
+        <tr>
+            <td style="padding:2.5%;width:30%;max-width:30%">
+                <img src="img/momennejad.png" alt="Snow" style="width:100%">
+            </td>
+            <td>
+            <a href="https://www.momen-nejad.org/"><h2 style="line-height: 0.5">Ida Momennejad</h2></a>
+            <p style="font-size: medium;">Microsoft Research</p>
+            <h4 style="font-style:italic">To be announced</h4>
+            <button type="button" class="collapsible">Abstract of the talk</button>
+            <div class="content">
+                <p><br>To be confirmed...</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+# Schedule
+
+<!-- <div align="center"> -->
+
+| **Time**    	| **Agenda**                               	| **Speaker**    	|
+|-------------	|------------------------------------------	|----------------	|
+| 1:00 - 1:15 	| Introduction [15min]                     	| Zaf Fountas    	|
+| 1:15 - 1:50 	| Speaker 1 [35min]                        	| Rich Sutton    	|
+| 1:50 - 2:25 	| Speaker 2 [35 min]                       	| Marc Howard    	|
+| 2:25 - 3:00 	| Speaker 3 [35 min]                       	| Ida Mommenejad 	|
+| 3:00 - 3:15 	| Break / Group allocation (3 groups)      	| -              	|
+| 3:15 - 4:20 	| Group discussions                        	| -              	|
+| 4:25 - 4:55 	| Panel with questions 	                    | -              	|
+| 4:55 - 5:00 	| Closing remarks                          	| -              	|
+| 5:00 +       	| Happy time                               	| -              	|
+
+<!-- </div> -->
+
+<!-- Time 	Agenda	Speaker
+1:00 -1:15	Introduction [15min]	Zaf Fountas
+1:15 - 1:50	Speaker 1 [35min]	Rich Sutton
+1:50 - 2:25	Speaker 2 [35min]	Marc Howard
+2:25 - 3:00	Speaker 3 [35min]	Ida Momennejad
+3:00 - 3:15	Break / Group Allocation (3 groups) [15min]	
+3:15 - 4:20	Group discussions [1hour 5min]	
+4:25 - 4:55	Panel (1 from each group) with questions [30min]	
+4:55 - 5:00 	Closing Remarks [5min]	
+5:00 + 	Happy time -->
+
 
 # Organisers
 
@@ -116,3 +185,21 @@ Sign up to receive the latest updates on the event (programme announcement and l
 3. Hafner, D., Lillicrap, T., Fischer, I., Villegas, R., Ha, D., Lee, H. & Davidson, J. (2019), Learning latent dynamics for planning from pixels, in ‘International conference on machine learning’, PMLR, pp. 2555–2565.
 4. Jazayeri, M. & Shadlen, M. N. (2010), ‘Temporal context calibrates interval timing’, Nature neuro- science 13(8), 1020–1026.
 5. Roseboom, W., Fountas, Z., Nikiforou, K., Bhowmik, D., Shanahan, M. & Seth, A. K. (2019), ‘Activity in perceptual classification networks as a basis for human subjective time perception’, Nature communications 10(1), 1–9.
+
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+        content.style.maxHeight = null;
+        } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+        }
+    });
+    }
+</script>
