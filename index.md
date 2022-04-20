@@ -86,10 +86,10 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 
 | **Time**    	| **Agenda**                               	|
 |-------------	|------------------------------------------	|
-| 1:00 - 1:15 	| Introduction [15min]                     	|
-| 1:15 - 1:50 	| Speaker 1 [35min]                        	|
-| 1:50 - 2:25 	| Speaker 2 [35 min]                       	|
-| 2:25 - 3:00 	| Speaker 3 [35 min]                       	|
+| 1:00 - 1:15 	| Introduction                          	|
+| 1:15 - 1:50 	| Speaker 1                             	|
+| 1:50 - 2:25 	| Speaker 2                             	|
+| 2:25 - 3:00 	| Speaker 3                             	|
 | 3:00 - 3:15 	| Break / Group allocation              	|
 | 3:15 - 4:20 	| Group discussions                        	|
 | 4:25 - 4:55 	| Panel with questions 	                    |
