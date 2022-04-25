@@ -6,7 +6,7 @@ layout: default
 ---
 
 <div class="mainquote">
-    <b>TRiRL</b> is a one-day interdisciplinary workshop that aims to push the boundaries of our understanding of brain's ability to represent time and explore the potential benefits for reinforcement learning.
+    <b>TRiRL</b> is a half-day interdisciplinary workshop that aims to push the boundaries of our understanding of brain's ability to represent time and explore the potential benefits for reinforcement learning.
 </div>
 
 ---
