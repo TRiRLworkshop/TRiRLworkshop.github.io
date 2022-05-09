@@ -82,8 +82,6 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 
 # Schedule
 
-<div align="center">
-
 | **Time**    	| **Agenda**                               	| **Details**                                                |
 |-------------	|------------------------------------------	|----------------------------------------------------------- |
 | 1:00 - 1:15 	| Introduction                          	| A short introduction to the topic and the workshop structure by the organisers. |
@@ -93,7 +91,6 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 | 4:25 - 4:55 	| Panel with questions 	                    | Each group will nominate representative to present the outcome of the discussion and defend the group’s position to the rest of the workshop participants, including online participants. |
 | 4:55 - 5:00 	| Closing remarks                          	| In closing remarks, the results of the panel discussion will be summarised. |
 |    5:00    	| Social event                             	| Participants who are physically present will be encouraged to attend a social event organised by the workshop to continue the discussion |
-</div>
 
 RLDM requires speakers and active participants to be physically present in the workshop. However, we plan to stream the whole program and we encourage online participants to submit questions online, which we will try to convey during the group and panel discussions. Finally, the most important outcomes of TRiRL will be formally described in opinion papers organised by the group moderators and written by willing participants after the workshop.
 
