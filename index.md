@@ -80,21 +80,22 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
 </table>
 
 
-<!-- # Schedule -->
+# Schedule
 
-<!-- <div align="center"> -->
+<div align="center">
 
-<!-- | **Time**    	| **Agenda**                               	| -->
-<!-- |-------------	|------------------------------------------	| -->
-<!-- | 1:00 - 1:15 	| Introduction                          	| -->
-<!-- | 1:15 - 3:00 	| Speakers                               	| -->
-<!-- | 3:00 - 3:15 	| Break / Group allocation              	| -->
-<!-- | 3:15 - 4:20 	| Group discussions                        	| -->
-<!-- | 4:25 - 4:55 	| Panel with questions 	                    | -->
-<!-- | 4:55 - 5:00 	| Closing remarks                          	| -->
-<!-- |    5:00    	| Social event                             	| -->
+| **Time**    	| **Agenda**                               	| **Details**                                                |
+|-------------	|------------------------------------------	|----------------------------------------------------------- |
+| 1:00 - 1:15 	| Introduction                          	| A short introduction to the topic and the workshop structure by the organisers. |
+| 1:15 - 3:00 	| Keynote speakers                         	| Three keynote presentations will last approxmately 35 minutes each including questions. |
+| 3:00 - 3:15 	| Break / Group allocation              	| During a coffee break, the participants will be divided into moderated groups with the aim to maintain diversity in levels of seniority and field of expertise. |
+| 3:15 - 4:20 	| Group discussions                        	| All groups will be given a list of open problems in the field to discuss and propose solutions. |
+| 4:25 - 4:55 	| Panel with questions 	                    | Each group will nominate representative to present the outcome of the discussion and defend the group’s position to the rest of the workshop participants, including online participants. |
+| 4:55 - 5:00 	| Closing remarks                          	| In closing remarks, the results of the panel discussion will be summarised. |
+|    5:00    	| Social event                             	| Participants who are physically present will be encouraged to attend a social event organised by the workshop to continue the discussion |
+</div>
 
-<!-- </div> -->
+RLDM requires speakers and active participants to be physically present in the workshop. However, we plan to stream the whole program and we encourage online participants to submit questions online, which we will try to convey during the group and panel discussions. Finally, the most important outcomes of TRiRL will be formally described in opinion papers organised by the group moderators and written by willing participants after the workshop.
 
 # Organisers
 
