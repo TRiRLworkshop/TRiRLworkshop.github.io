@@ -11,6 +11,10 @@ layout: default
 
 ---
 
+# Workshop livestream
+
+Join us at: https://ucl.zoom.us/j/6174227147
+
 # About
 
 The ability to perceive and estimate temporal dynamics can be considered as one of the central elements of intelligent biological agents – equipped with a model of their environment. Similarly, if one takes the view that an agent’s (internal) model is its primary guide to behaviour, the ability to learn appropriate temporal representations and employ them for action selection is a crucial consideration in reinforcement learning (RL).
