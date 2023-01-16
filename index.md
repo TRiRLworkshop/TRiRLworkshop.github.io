@@ -32,10 +32,6 @@ TRiRL will bring together experts in model-based RL and neuroscientists working 
             <a href="http://www.incompleteideas.net/"><h2 style="line-height: 0.5">Richard Sutton</h2></a>
             <p style="font-size: medium;">DeepMind, Amii and University of Alberta</p>
             <h4 style="font-style:italic">"Some Foundations of Temporal Representations"</h4>
-            <button type="button" class="collapsible">Abstract of the talk</button>
-            <div class="content">
-                <p><br>To be confirmed...</p>
-            </div>
             </td>
         </tr>
     </tbody>
